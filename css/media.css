@@ -1,0 +1,616 @@
+ /*Extra small devices portrait phones, less than 576px*/
+@media (max-width: 575.98px) { 
+    .menu ul li a {
+        font-size: 17px !important;
+        margin-top: 16px !important;
+        margin-left: -24px;
+        margin-right: 0px;
+ }
+ .navbar-toggler {
+border: none;
+margin-right: 25px;
+}
+ .logo {
+    width: 147px;
+}
+ .c_nav {
+    height: 157px;
+    padding: 9px;
+}
+.banner-text h2 {
+    font-size: 41px;
+    margin-bottom: 23px;
+    margin-top: 20px;
+}
+.single-item-ab {
+    background-color: white;
+    margin-bottom: 21px;
+    text-align: center;
+}
+.price-menu {
+    padding: 3px;
+}
+
+.order-p6 {
+    font-size: 20px;
+    margin-bottom: 21px;
+}
+.slider-h3 {
+    font-size: 17px;
+    margin-bottom: -8px;
+    text-align: center;
+}
+.slider-p {
+  display: none;
+}
+.slider-btton {
+    margin-top: 21px;
+    margin-bottom: 98px;
+    margin-left: 110px;
+}
+.social-text {
+    margin-top: 70px;
+}
+.social-icon {
+    margin-top: 14px;
+}
+.service-title {
+    font-size: 24px;
+    margin-bottom: 8px;
+    text-align: center;
+    margin-top: 18px;
+}
+.menus {
+    margin-top: 263px;
+}
+.menu-text h2 {
+    font-size: 26px;
+    margin-bottom: 26px;
+    text-align: center;
+}
+.order {
+    padding: 30px;
+}
+.order-p6 {
+    font-size: 19px;
+    margin-bottom: 21px;
+}
+.price-menu {
+    height: 206px;
+}
+.menueebutton {
+ 
+    margin-top: 22px;
+    margin-left: 18px;
+    margin-bottom: 67px;
+}
+.menu-title {
+    text-align: center;
+}
+.menu-title2 {
+    text-align: center;
+    display: none;
+}
+.menu-h2 {
+    font-size: 26px;
+    margin-top: 30px;
+}
+.menu-p {
+    font-size: 17px;
+    margin-top: 15px;
+    margin-bottom: 8px;
+}
+.menu_button {
+ 
+    margin-bottom: 18px;
+    width: 215px;
+    height: 58px;
+    font-size: 21px;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-bottom: 40px;
+}
+.menu-two {
+    font-size: 24px;
+    margin-top: 57px;
+    text-align: center;
+}
+.menu-ptwo {
+    font-size: 17px;
+    margin-top: 16px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+.menu-img2 {
+    margin-top: 63px;
+}
+
+.slider-text {
+    top: 30%;
+}
+.sliderbutton {
+    width: 186px;
+    height: 38px;
+    font-size: 16px;
+    margin-top: 38px;
+}
+.slider-img img {
+    height: 203px;
+}
+.footerlast {
+    position: absolute;
+    top: 114%;
+    background-color: #6688b0;
+}
+footer {
+    position: absolute;
+    top: 43%;
+    background-color:#6688b0;
+}
+.social {
+    position: relative;
+    top: -11%;
+}
+.social-icon a {
+    margin: 15px 6px 9px 19px;
+}
+.s-h2 {
+    font-size: 38px;
+}
+.s-p {
+    font-size: 17px;
+    font-weight: 400;
+    color: white;
+}
+.s-h3 {
+    font-size: 25px;
+}
+.footer-top {
+    position: relative;
+    height: 215vh;
+    margin-top: 42px;
+    margin-bottom: 0px;
+}
+.p-p {
+    margin-bottom: 0px;
+    text-align: center;
+}  
+.services ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+.footerlast p {
+    font-size: 18px;
+}
+}
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .menu ul li a {
+        font-size: 19px !important;
+        margin-top: 18px !important;
+        margin-left: -18px;
+        margin-right: 5px;
+ }
+ .c_nav {
+    height: 157px;
+}
+.banner-text h2 {
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+.single-item-ab {
+    background-color: white;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.price-menu {
+    padding: 3px;
+}
+
+.order-p6 {
+    font-size: 20px;
+    margin-bottom: 21px;
+}
+.slider-h3 {
+    font-size: 31px;
+    margin-bottom: 12px;
+    text-align: center;
+}
+.slider-p {
+   display: none;
+}
+.slider-btton {
+    margin-top: 21px;
+    margin-bottom: 98px;
+    margin-left: 110px;
+}
+.social-text {
+    margin-top: 70px;
+}
+.social-icon {
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.service-title {
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+.menus {
+    margin-top: 221px;
+}
+.menu-text h2 {
+    font-size: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.order {
+    padding: 30px;
+}
+.order-p6 {
+    font-size: 19px;
+    margin-bottom: 21px;
+}
+.price-menu {
+    height: 180px;
+}
+.menueebutton {
+ 
+    margin-top: 22px;
+}
+.menu-title {
+    text-align: center;
+}
+.menu-title2 {
+    text-align: center;
+    display: none;
+}
+.menu-h2 {
+    font-size: 27px;
+    margin-top: 54px;
+}
+.menu-p {
+    font-size: 17px;
+    margin-top: 15px;
+    margin-bottom: 8px;
+}
+.menu_button {
+ 
+    margin-bottom: 18px;
+    width: 215px;
+    height: 58px;
+    font-size: 21px;
+    margin-top: 17px;
+    margin-left: 0px;
+    margin-bottom: 40px;
+}
+.menu-two {
+    font-size: 24px;
+    margin-top: 57px;
+    text-align: center;
+}
+.menu-ptwo {
+    font-size: 17px;
+    margin-top: 16px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+.menu-img2 {
+    margin-top: 63px;
+}
+
+.slider-text {
+    top: 28%;
+}
+.sliderbutton {
+    width: 205px;
+    height: 50px;
+    font-size: 17px;
+    margin-top: 52px;
+}
+.slider-img img {
+    height: 328px;
+}
+.footerlast {
+    top: 92%;
+}
+footer {
+    top: 50%;
+}
+.social {
+    top: -16%;
+}
+.footer-top {
+    height: 186vh;
+    margin-top: 100px;
+}
+.p-p {
+    margin-bottom: 13px;
+}
+.footerlast p {
+    margin-top: 15px;
+}
+    
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .menu ul li a {
+        font-size: 19px !important;
+        margin-top: 18px !important;
+        margin-left: -18px;
+        margin-right: 5px;
+ }
+ .logo {
+    width: 191px;
+}
+ .c_nav {
+    height: 157px;
+    margin-top: 10px;
+}
+.banner-text h2 {
+    font-size: 70px;
+    margin-top: 20px;
+    margin-bottom: 23px;
+}
+.single-item-ab {
+    background-color: white;
+    margin-bottom: 30px;
+}
+.price-menu {
+    padding: 3px;
+}
+
+.order-p6 {
+    font-size: 20px;
+    margin-bottom: 21px;
+}
+.slider-h3 {
+    font-size: 43px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+.slider-p {
+    margin: 0px;
+    font-size: 16px;
+    text-align: center;
+}
+.slider-btton {
+    margin-top: 21px;
+    margin-bottom: 98px;
+    margin-left: 110px;
+}
+.social-text {
+    margin-top: 70px;
+}
+.social-icon {
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.service-title {
+    font-size: 20px;
+    margin-bottom: 3px !important;
+}
+.menus {
+    margin-top: 300px;
+}
+.menu-text h2 {
+    font-size: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.order {
+    padding: 30px;
+}
+.order-p6 {
+    font-size: 19px;
+    margin-bottom: 21px;
+}
+.price-menu {
+    height: 154px;
+}
+.menueebutton {
+ 
+    margin-top: 22px;
+}
+.menu-title {
+    text-align: center;
+}
+.menu-title2 {
+    text-align: center;
+}
+.menu-h2 {
+    font-size: 27px;
+    margin-top: 54px;
+}
+.menu-p {
+    font-size: 17px;
+    margin-top: 15px;
+    margin-bottom: 8px;
+}
+.menu_button {
+ 
+    margin-bottom: 18px;
+    width: 215px;
+    height: 58px;
+    font-size: 21px;
+    margin-top: 17px;
+    margin-left: 0px;
+}
+.menu-two {
+    font-size: 24px;
+    margin-top: 57px;
+    text-align: center;
+}
+.menu-ptwo {
+    font-size: 17px;
+    margin-top: 16px;
+    margin-bottom: 8px;
+    text-align: center;
+}
+.menu-img2 {
+    margin-top: 63px;
+}
+
+.slider-text {
+    top: 10%;
+}
+.sliderbutton {
+    width: 210px;
+    height: 55px;
+    font-size: 19px;
+    margin-top: 43px;
+}
+.slider-img img {
+    height: 412px;
+}
+.footerlast {
+    top: 88%;
+}
+footer {
+    top: 50%;
+}
+.social {
+    top: -20%;
+}
+.footer-top {
+    height: 186vh;
+    margin-top: 140px;
+}
+.p-p {
+    margin-bottom: 21px !important;
+}
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .banner-text h2 {
+        font-size: 50px;
+        font-weight: 700;
+        line-height: 58px;
+        margin-top: 64px;
+        margin-bottom: 27px;
+    }
+    .logo {
+        width: 191px;
+    }
+    .order-p {
+        font-size: 25px;
+        margin-top: 40px;
+    }
+    .slider-text {
+        top: 23%;
+        left: 30%;
+        right: 30%;
+    }
+    .slider-h3 {
+        font-size: 58px;
+        margin-bottom: 10px;
+    }
+    .slider-p {
+        font-size: 16px;
+    }
+    .slider-btton {
+        margin-left: 85px;
+        margin-top: 25px;
+    }
+    .footer-top {
+        height: 175vh;
+        margin-top: 128px;
+    }
+    .slider-img img {
+        height: 500px;
+    }
+    .menu-text h2 {
+        font-size: 36px;
+        margin-bottom: 47px;
+    }
+    .menu-h2 {
+        font-size: 45px;
+        margin-top: 116px;
+    }
+    .menu-p {
+        font-size: 17px;
+    }
+    .menu-two {
+        font-size: 40px;
+        margin-top: 116px;
+    }
+    .menu-ptwo {
+        font-size: 17px;
+    }
+    .menu-img2 {
+        margin-top: 39px;
+    }
+    .menus {
+        margin-top: 280px;
+    }
+    .price-menu p {
+        font-size: 18px;
+    }
+    footer {
+        top: 56% !important;
+        right: 0px;
+        left: 0px;
+    }
+    .footerlast p {
+        text-align: center;
+        margin-top: 46px !important;
+        color: white;
+    }
+    .service-title {
+        margin-bottom: 17px !important;
+    }
+    .social {
+        top: -8% !important;
+        right: 0px;
+        left: 0px;
+    }
+    .footerlast {
+        top: 87% !important;
+        left: 0px;
+        right: 0px;
+    }
+ 
+ }
+ /*Extra large devices (large desktops, 1200px and up)*/
+ @media (min-width: 1200px) and (max-width: 1399.98px) { 
+    .slider-text {
+        top: 25%;
+
+    }
+    .slider-h3 {
+        font-size: 63px;
+
+    }
+    .slider-img img{
+       height: 600px;
+    }
+
+    .logo {
+        width: 175px;
+    }
+    .menu ul li a {
+        font-size: 17px;
+    }
+    .footer-top {
+        height: 105vh !important;
+    }
+    footer {
+        top: 54% !important;
+        right: 0px;
+        left: 0px;
+    }
+    .footerlast {
+        top: 87% !important;
+        left: 0px;
+        right: 0px;
+    }
+  }
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) and ( max-width :1600px){ 
+    .footer-top {
+        height: 120vh;
+    }
+}
